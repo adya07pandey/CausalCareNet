@@ -271,10 +271,3 @@ This project is intended strictly for:
 It should **NOT** be used for real-world medical diagnosis or treatment decisions without professional validation.
 
 ---
-
-#  Citation
-
-If you use this work, please cite the associated research paper.
-
----
-
