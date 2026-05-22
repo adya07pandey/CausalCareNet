@@ -204,7 +204,7 @@ CausalCareNet/
 
 ---
 
-# 🔬 Core Equations
+#  Core Equations
 
 ## Bayesian Information Criterion (BIC)
 
@@ -251,7 +251,7 @@ The framework generates:
 
 ---
 
-# 🔮 Future Work
+#  Future Work
 
 - Dynamic Bayesian Networks
 - Temporal healthcare modeling
@@ -272,22 +272,9 @@ It should **NOT** be used for real-world medical diagnosis or treatment decision
 
 ---
 
-#  Authors
-
-- Adya Pandey
-- Kamya Hirwani
-- Shiwani Banjare
-- Santosh Kumar
-- Abhishek Shrivastava
-
----
-
 #  Citation
 
 If you use this work, please cite the associated research paper.
 
 ---
 
-# ⭐ Star the Repository
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
